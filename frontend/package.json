@@ -1,0 +1,29 @@
+{
+  "name": "truestate-assignment-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Frontend React application for the Retail Sales Management System (TruEstate assignment).",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "react",
+    "vite",
+    "retail",
+    "truestate",
+    "assignment"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.0",
+    "vite": "^7.2.6"
+  }
+}
